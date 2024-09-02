@@ -55,23 +55,4 @@
   </a>
 </p>
 
-### 👨‍💻 About Me :
-
-```javascript
-const yourName = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "gaming"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue"],
-            css: ["Bootstrap", "Tailwind"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        databases: ["MongoDB", "MySQL"],
-    }
-};
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:EEFF00&height=150&section=footer&fontSize=50" alt="Footer" />
