@@ -50,6 +50,9 @@
   <a href="https://www.linkedin.com/in/[your-linkedin-profile](https://www.linkedin.com/in/%EC%8A%B9%EB%AF%BC-%EC%9D%B4-20b845326/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/your-twitter-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://your-blog-url.com"><img src="https://img.shields.io/badge/Blog-DD0B78?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"></a>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:EEFF00&height=150&section=footer&fontSize=50" alt="Footer" />
