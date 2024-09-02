@@ -19,7 +19,7 @@
 🔭 I’m currently working on **[Your Current Project]**  
 🌱 Learning **[Python]** to enhance my skills.  
 💬 Ask me about **[Your Expertise]**  
-📫 Reach me: [your.email@example.com](mailto:your.email@example.com)  
+📫 Reach me: [lsmlsm0968@gmail.com](mailto:your.email@example.com)  
 ⚡ Fun fact: [Something interesting about you]
 
 ## 🚀 My Skills
