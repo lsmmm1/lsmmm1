@@ -15,9 +15,9 @@
 
 ## About Me
 
-🎓 I'm a **[Your Job Title]** at **[Company Name]**.  
+🎓 I'm a **[student]** at **[Seoul Robot High School]**.  
 🔭 I’m currently working on **[Your Current Project]**  
-🌱 Learning **[New Technology/Language]** to enhance my skills.  
+🌱 Learning **[Python]** to enhance my skills.  
 💬 Ask me about **[Your Expertise]**  
 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)  
 ⚡ Fun fact: [Something interesting about you]
