@@ -1,12 +1,5 @@
 ## Hi there 👋
-
-<!--
-**lsmmm1/lsmmm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lsmmm1=anuraghazra&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lsmmm1=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
